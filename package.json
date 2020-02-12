@@ -1,0 +1,23 @@
+{
+  "name": "booksearch",
+  "version": "1.0.0",
+  "description": "Book search app -google like-  nodejs react mongodb ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xanderlav/booksearch.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Alejandro R Lopez Avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xanderlav/booksearch/issues"
+  },
+  "homepage": "https://github.com/xanderlav/booksearch#readme"
+}
